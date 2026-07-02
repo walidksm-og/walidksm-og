@@ -15,5 +15,5 @@ Je suis étudiant en **ingénierie informatique** à CESI, passionné par le dé
 - **Méthodologies :** Agile, CI/CD de base
 
 ### 📬 Me connecter
-- 🌐 Mon Portfolio : [Colle ici ton lien Vercel modifié]
-- 💼 LinkedIn : [Lien vers ton profil LinkedIn]
+- 🌐 Mon Portfolio : [https://walid-kasmi-portfolio.vercel.app/]
+- 💼 LinkedIn : [www.linkedin.com/in/walid-kasmi-028053359]
