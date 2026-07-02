@@ -1,16 +1,19 @@
-## Hi there 👋
+# Salut, moi c'est Walid ! 👋
 
-<!--
-**walidksm-og/walidksm-og** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Je suis étudiant en **ingénierie informatique** à CESI, passionné par le développement web, l'optimisation et les architectures tech.
 
-Here are some ideas to get you started:
+---
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### 🚀 Mes Objectifs Actuels
+- 💻 Approfondir l'écosystème React et perfectionner mes projets sur Vercel.
+- 🛠️ Développer des compétences solides en ingénierie logicielle et gestion de projet.
+- 📊 Explorer l'automatisation et l'intégration de solutions intelligentes.
+
+### 🛠️ Compétences & Technologies
+- **Développement :** HTML5, CSS3, JavaScript, React
+- **Outils & Déploiement :** Git, GitHub, Vercel
+- **Méthodologies :** Agile, CI/CD de base
+
+### 📬 Me connecter
+- 🌐 Mon Portfolio : [Colle ici ton lien Vercel modifié]
+- 💼 LinkedIn : [Lien vers ton profil LinkedIn]
